@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2017-11-18 16:20:58 +0100
+author: Alexander Köb
 categories: housekeeping
 ---
 Good news everyone...
