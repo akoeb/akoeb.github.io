@@ -15,3 +15,4 @@ markdown: kramdown
 
 
 timezone: Europe/Berlin
+show_downloads: false
