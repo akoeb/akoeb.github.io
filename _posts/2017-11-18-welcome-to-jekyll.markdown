@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Opening my Github Blog"
 date:   2017-11-18 16:20:58 +0100
-categories: jekyll update
+categories: housekeeping
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Hello World ##
 
-Jekyll also offers powerful support for code snippets:
+I guess I am at a point now where I am starting to go public with some of the things I do. Even though I am still pretty sure that all this is of no interest to most of the world out there, maybe there are still some people who actually do find this useful. Anyway, over the course of my career, many times I encountered blog posts that helped my with some problem at hand, so maybe this way I can give something back to "the community" (what ever that means).
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Probably I will write not very often, and what I write will  be in english most of the time. Please excuse weird formulations and blunt errors in my language, for English is not my mothers tongue, that is German, actually. So please do not hesitate to let me know of errors and give me hints for better phrasing, may that help to improve my English language skills.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Same is true for all the other stuff that I am writing, always happy to get positive and negative feedback and corrections.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+So far to the introduction, enjoy reading!
+
+
